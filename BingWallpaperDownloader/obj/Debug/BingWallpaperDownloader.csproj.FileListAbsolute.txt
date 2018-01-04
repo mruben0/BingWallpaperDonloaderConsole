@@ -1,0 +1,12 @@
+C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\bin\Debug\BingWallpaperDownloader.exe.config
+C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\bin\Debug\BingWallpaperDownloader.exe
+C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\bin\Debug\BingWallpaperDownloader.pdb
+C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\bin\Debug\RestSharp.dll
+C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\bin\Debug\System.ValueTuple.dll
+C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\bin\Debug\System.ValueTuple.xml
+C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\obj\Debug\BingWallpaperDownloader.csprojResolveAssemblyReference.cache
+C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\obj\Debug\BingWallpaperDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\obj\Debug\BingWallpaperDownloader.exe
+C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\obj\Debug\BingWallpaperDownloader.pdb
