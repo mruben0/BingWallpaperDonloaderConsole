@@ -13,7 +13,7 @@ namespace BingWallpaperDownloader
         public List<string> URLParser()
         {
             List<string> ImageUrls = new List<string>();
-            for (int i = 0; i < 20; i++)
+            for (int i = 0; i < 15; i+=9)
             {
                 var request = new RestRequest("HPImageArchive.aspx?format=js&idx={idx}&n=1000", Method.GET);
 
@@ -27,9 +27,12 @@ namespace BingWallpaperDownloader
                 foreach (var item in arr)
                 {
                     var url = item.Value<string>("url");
+                    var name = item.Value<string>("copyright");
                     var bingUrl = "https://www.bing.com" + url;
                     if (!ImageUrls.Contains(bingUrl))
-                        ImageUrls.Add($@"{bingUrl}");
+                    {
+
+                    }
                 }
             }
             return ImageUrls;

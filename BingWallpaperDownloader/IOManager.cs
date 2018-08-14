@@ -10,7 +10,15 @@ namespace BingWallpaperDownloader
 {
     public class IOManager
     {
-        public string DownloadPath = @"C:\Users\Karo\Desktop\SavedFromBing";
+        public string DownloadPath = @"..\SavedFromBing";
+
+        public IOManager()
+        {
+            if (!Directory.Exists(DownloadPath))
+            {
+                Directory.CreateDirectory(DownloadPath);
+            }
+        }
 
         public string ResultPathGenerator(string url)
         {

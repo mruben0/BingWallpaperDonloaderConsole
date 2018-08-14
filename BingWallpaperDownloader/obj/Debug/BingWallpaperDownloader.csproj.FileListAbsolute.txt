@@ -10,3 +10,16 @@ C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownlo
 C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\obj\Debug\BingWallpaperDownloader.csproj.CoreCompileInputs.cache
 C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\obj\Debug\BingWallpaperDownloader.exe
 C:\Users\Karo\Documents\Visual Studio 2017\Projects\Products\BingWallpaperDownloader\BingWallpaperDownloader\obj\Debug\BingWallpaperDownloader.pdb
+C:\Users\mrube\source\repos\Bing Console\BingWallpaperDonloaderConsole\BingWallpaperDownloader\bin\Debug\BingWallpaperDownloader.exe.config
+C:\Users\mrube\source\repos\Bing Console\BingWallpaperDonloaderConsole\BingWallpaperDownloader\bin\Debug\BingWallpaperDownloader.exe
+C:\Users\mrube\source\repos\Bing Console\BingWallpaperDonloaderConsole\BingWallpaperDownloader\bin\Debug\BingWallpaperDownloader.pdb
+C:\Users\mrube\source\repos\Bing Console\BingWallpaperDonloaderConsole\BingWallpaperDownloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrube\source\repos\Bing Console\BingWallpaperDonloaderConsole\BingWallpaperDownloader\bin\Debug\RestSharp.dll
+C:\Users\mrube\source\repos\Bing Console\BingWallpaperDonloaderConsole\BingWallpaperDownloader\bin\Debug\System.ValueTuple.dll
+C:\Users\mrube\source\repos\Bing Console\BingWallpaperDonloaderConsole\BingWallpaperDownloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrube\source\repos\Bing Console\BingWallpaperDonloaderConsole\BingWallpaperDownloader\bin\Debug\System.ValueTuple.xml
+C:\Users\mrube\source\repos\Bing Console\BingWallpaperDonloaderConsole\BingWallpaperDownloader\obj\Debug\BingWallpaperDownloader.csprojAssemblyReference.cache
+C:\Users\mrube\source\repos\Bing Console\BingWallpaperDonloaderConsole\BingWallpaperDownloader\obj\Debug\BingWallpaperDownloader.csproj.CoreCompileInputs.cache
+C:\Users\mrube\source\repos\Bing Console\BingWallpaperDonloaderConsole\BingWallpaperDownloader\obj\Debug\BingWallpaperDownloader.csproj.CopyComplete
+C:\Users\mrube\source\repos\Bing Console\BingWallpaperDonloaderConsole\BingWallpaperDownloader\obj\Debug\BingWallpaperDownloader.exe
+C:\Users\mrube\source\repos\Bing Console\BingWallpaperDonloaderConsole\BingWallpaperDownloader\obj\Debug\BingWallpaperDownloader.pdb
